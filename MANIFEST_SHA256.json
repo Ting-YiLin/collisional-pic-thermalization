@@ -1,0 +1,162 @@
+[
+  {
+    "path": ".github/workflows/build-smoke.yml",
+    "sha256": "67397507b5d6c96f873ce4544ac98839b07ab4273d00f9b17c602558db8b6d9c",
+    "size": 388
+  },
+  {
+    "path": "00_START_HERE.md",
+    "sha256": "dba33e3e438e7638174d4ec15bd2aa44d6c3d3591c35182353019c21c0b883af",
+    "size": 402
+  },
+  {
+    "path": "CITATION.cff",
+    "sha256": "8aa97f04e0be869014b71cdec740ce31d2e2a9edcd34fb5358e487837f99be4b",
+    "size": 737
+  },
+  {
+    "path": "CMakeLists.txt",
+    "sha256": "810798c30c925c35f93194342a23d21daf1490d8a0aac9294311ec47cabdb406",
+    "size": 216
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "2c548cf7d1d641d8eae09c91b2042306ce588c4333dc3febb2e6f3d994758344",
+    "size": 1068
+  },
+  {
+    "path": "README.md",
+    "sha256": "68a1fccceb497995c09b40a9125ba0a03736a16ee58ad49415193632426efb6a",
+    "size": 3416
+  },
+  {
+    "path": "assets/reported_collision_ratio_scalings.png",
+    "sha256": "d773f0f9fbb086776c8206314855fffef9f2acc487be28f84236788c159216f8",
+    "size": 78341
+  },
+  {
+    "path": "assets/reported_collisionless_scaling.png",
+    "sha256": "99ec47a8a1f00d64ad196c0cfd09b2bfce689fa6de10afbac83c3e8a079300e6",
+    "size": 66734
+  },
+  {
+    "path": "assets/social_preview.png",
+    "sha256": "37094d3ca910b6a2da5020301b5ac1fb71edef1c3884afd81297620808c88979",
+    "size": 60220
+  },
+  {
+    "path": "config/paper_example_input.txt",
+    "sha256": "41dd5b0067ee9e63de42950603edb22c831752a3b73d3354d95a64c6ee09658a",
+    "size": 718
+  },
+  {
+    "path": "config/smoke_input.txt",
+    "sha256": "9267f179eabd4d4faf3c4b293006b22a4d3b5f4b41818b75a13f475f5aab92ef",
+    "size": 700
+  },
+  {
+    "path": "config/thesis_validation_input.txt",
+    "sha256": "41dd5b0067ee9e63de42950603edb22c831752a3b73d3354d95a64c6ee09658a",
+    "size": 718
+  },
+  {
+    "path": "config/validation_quick_collisional.txt",
+    "sha256": "e55fa91db104ee8795939a88c2857bfaa0fbdd6c4cb6afd77489875abbdeca90",
+    "size": 420
+  },
+  {
+    "path": "config/validation_quick_collisionless.txt",
+    "sha256": "9d6b53d5157984fc7f5b7378dabfa9e811cfcfe61f999d3113f1b45cde5123b7",
+    "size": 408
+  },
+  {
+    "path": "docs/LINKEDIN_COPY.md",
+    "sha256": "f92affa74cde7c1feb251227918028311f2b8c6fcfe5141075fc1a3b08ef3ba4",
+    "size": 1686
+  },
+  {
+    "path": "docs/PAPER_TO_CODE_MAP.md",
+    "sha256": "ba78ee2ee3398fa963986cb4c291aa18bc577213cd48c1db638fd65931358e1a",
+    "size": 1021
+  },
+  {
+    "path": "docs/PARAMETER_NOTE.md",
+    "sha256": "9b0398240d449aa7be829b25681ccb75902de416dad1b25e8a55ae2ab64001b0",
+    "size": 540
+  },
+  {
+    "path": "docs/PROVENANCE.md",
+    "sha256": "9c08078856cff03faebfc5e2ce5cc75b2d2d8d85ad93b68aaae3716b7a10180a",
+    "size": 746
+  },
+  {
+    "path": "docs/PUBLISH_CHECKLIST.md",
+    "sha256": "0a46c4765b814086ed9f0385b5c1c26452941014cd7dc225e671d4afe2bee308",
+    "size": 1418
+  },
+  {
+    "path": "docs/RECOVERY_NOTES.md",
+    "sha256": "1b22a10e2f2d7f2adb14db296c44b8b34300bda8fdda76d52c9823385bb22750",
+    "size": 657
+  },
+  {
+    "path": "reproduce.bat",
+    "sha256": "8fd3becb47e52f62ebd90daa5cf16b25166ef24f30e471ec4812ab9b52ff37e3",
+    "size": 42
+  },
+  {
+    "path": "run_smoke.bat",
+    "sha256": "8f3a5730c2bacf3e11db81c84fb051476ba9a916f22f4e4636ed72d1c9907e4f",
+    "size": 175
+  },
+  {
+    "path": "scripts/plot_reported_scalings.py",
+    "sha256": "b98510becc61dcada7f1bc50f33774c6167f8083408dc385694efda032c01ed3",
+    "size": 1674
+  },
+  {
+    "path": "scripts/smoke_test.py",
+    "sha256": "949cc389e026e244b75f2502459b4f02efecf31c9abb7af535b81de51ae9216c",
+    "size": 1369
+  },
+  {
+    "path": "scripts/thesis_validation.py",
+    "sha256": "1a1f6587122c631198da60f4336131aa3567b51b6c705b9d220365b55d16b05b",
+    "size": 2594
+  },
+  {
+    "path": "src/pic_2010_recovered.cpp",
+    "sha256": "d63f25b1e74b3a24d05084a8856dd4572938a656530548187e7b20ef760c6142",
+    "size": 26483
+  },
+  {
+    "path": "validate_thesis.bat",
+    "sha256": "d10e74c26da29ce915e837a8bfb79d838acfa0c02f9a90de16f892f4fb56a5a4",
+    "size": 215
+  },
+  {
+    "path": "validate_thesis.sh",
+    "sha256": "6f36353996bcd10f2feaa0febe711a17f42ec2db82e2a2ea59fa887b0460ce5a",
+    "size": 84
+  },
+  {
+    "path": "validation/SMOKE_TEST_LOG.txt",
+    "sha256": "a50ff02eb01b7aedee918a76bcae7982c55b1f57fd960b2ed9108597c30b675f",
+    "size": 1076
+  },
+  {
+    "path": "validation/VALIDATION.md",
+    "sha256": "cd8890bf955902bdcfe3897315f0c18eedca4c75afc87ac0a1eb62ccc1cfb2c8",
+    "size": 2690
+  },
+  {
+    "path": "validation/VALIDATION_STATUS.json",
+    "sha256": "d5ef7e79247c3217ce73dde1d6d74cf9b130cc93707b6c699832c426f6a568d5",
+    "size": 372
+  },
+  {
+    "path": "validation/representative_alpha3_validation.csv",
+    "sha256": "c1c1609424021d3964c9bd2e9c37cbbc399deb006fb106df37abc202b485351d",
+    "size": 188
+  }
+]

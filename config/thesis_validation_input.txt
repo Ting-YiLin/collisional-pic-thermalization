@@ -1,0 +1,17 @@
+--------system parameters-----------
+L= 256 # Debye lengths
+Dx= 0.25 # Debye length
+Dt= 0.1 # 1/plasma frequency
+total_time= 20000 # normalized time
+ND= 50 # particles per Debye length
+--------velocity distribution-----------
+distribution= 2 # 0 Maxwellian; 1 square; 2 ball/Fermi-like
+--------collision model-----------
+collision_mode= 2 # 0 none; 1 Turner/head-on; 2 pitch-angle scattering
+collision_rate= 1.0e-3 # collisions/plasma frequency
+collision_alpha= 3 # thesis Sec. 2.3
+--------weighting model-----------
+weighting= 1 # thesis Sec. 3.1 first-order weighting
+--------averaging-----------
+pass_loop= 3 # portfolio validation default; thesis historical analysis used more repeats
+--------averaging-----------

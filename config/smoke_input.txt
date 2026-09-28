@@ -1,0 +1,21 @@
+--------system parameters-----------
+L= 64 #Debye length
+△x= 0.25 #Debye length
+△t= 0.1 #1/plasma frequency
+total_time= 200 #plasma frequency
+ND= 10 #particles per Debye length
+--------system parameters-----------
+--------velocity distribution -----------
+distribution= 2 # ball/Fermi-like
+--------velocity distribution -----------
+--------collision model-----------
+collision_mode= 2 # pitch-angle scattering
+collision_rate= 1.0e-3 # collisions/plasma frequency
+collision_alpha= 3
+--------collision model-----------
+--------weighting model-----------
+weighting= 2 # second-order weighting
+--------weighting model-----------
+--------averaging-----------
+pass_loop= 5
+--------averaging-----------

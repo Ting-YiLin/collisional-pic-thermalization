@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this research archive, please cite the associated 2014 paper and this repository."
+title: "Collisional PIC Numerical Thermalization"
+type: software
+authors:
+  - family-names: Lin
+    given-names: Ting-Yi
+version: 1.0.0
+date-released: 2026-09-29
+license: MIT
+preferred-citation:
+  type: article
+  title: "Numerical thermalization in particle-in-cell simulations with Monte-Carlo collisions"
+  authors:
+    - family-names: Lai
+      given-names: P. Y.
+    - family-names: Lin
+      given-names: T. Y.
+    - family-names: Lin-Liu
+      given-names: Y. R.
+    - family-names: Chen
+      given-names: S. H.
+  journal: "Physics of Plasmas"
+  volume: 21
+  issue: 12
+  year: 2014
+  doi: 10.1063/1.4904307

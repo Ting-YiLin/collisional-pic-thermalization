@@ -1,0 +1,11 @@
+L= 64 # Debye lengths
+Dx= 0.25 # Debye length
+Dt= 0.1 # 1/plasma frequency
+total_time= 1000 # normalized time
+ND= 20 # particles per Debye length
+distribution= 2 # ball/Fermi-like
+collision_mode= 2 # pitch-angle scattering
+collision_rate= 1.0e-3 # normalized collision rate
+collision_alpha= 3 # thesis Sec. 2.3
+weighting= 1 # thesis Sec. 3.1 first-order weighting
+pass_loop= 3 # default portfolio validation repetitions

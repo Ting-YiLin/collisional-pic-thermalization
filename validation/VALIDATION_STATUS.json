@@ -1,0 +1,9 @@
+{
+  "status": "VALIDATED_AGAINST_THESIS_RESULTS",
+  "claim_scope": "Representative numerical reruns reproduce the main thesis trends/mechanisms; this is not an exact point-by-point full replication.",
+  "thesis_collision_alpha": 3,
+  "default_repetitions": 3,
+  "escalate_if_needed": 5,
+  "material_contradiction_found": false,
+  "one_click_entry": "validate_thesis.bat"
+}

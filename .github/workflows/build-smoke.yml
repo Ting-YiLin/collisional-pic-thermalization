@@ -1,0 +1,14 @@
+name: build-and-validate
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Smoke test
+        run: python scripts/smoke_test.py
+      - name: Representative thesis validation
+        run: python scripts/thesis_validation.py

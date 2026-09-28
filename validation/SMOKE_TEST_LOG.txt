@@ -1,0 +1,16 @@
+SMOKE_PASS: compile + reduced end-to-end run + required outputs
+
+/mnt/data/PIC_REPRODUCIBLE_RESEARCH_ARTIFACT_V1_20260928/src/pic_2010_recovered.cpp: In function ‘int main()’:
+/mnt/data/PIC_REPRODUCIBLE_RESEARCH_ARTIFACT_V1_20260928/src/pic_2010_recovered.cpp:663:6: warning: ‘int ftime(timeb*)’ is deprecated: Use gettimeofday or clock_gettime instead [-Wdeprecated-declarations]
+  663 | ftime(&tb);
+      | ~~~~~^~~~~
+In file included from /mnt/data/PIC_REPRODUCIBLE_RESEARCH_ARTIFACT_V1_20260928/src/pic_2010_recovered.cpp:12:
+/usr/include/x86_64-linux-gnu/sys/timeb.h:29:12: note: declared here
+   29 | extern int ftime (struct timeb *__timebuf)
+      |            ^~~~~
+/mnt/data/PIC_REPRODUCIBLE_RESEARCH_ARTIFACT_V1_20260928/src/pic_2010_recovered.cpp:811:6: warning: ‘int ftime(timeb*)’ is deprecated: Use gettimeofday or clock_gettime instead [-Wdeprecated-declarations]
+  811 | ftime(&tb);
+      | ~~~~~^~~~~
+/usr/include/x86_64-linux-gnu/sys/timeb.h:29:12: note: declared here
+   29 | extern int ftime (struct timeb *__timebuf)
+      |            ^~~~~
